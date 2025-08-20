@@ -3,7 +3,8 @@
 Git init
 ```
 ## 🚀 Sobre mim
-Eu sou Analista de dados e analista de desempenho ⚽.
+Eu sou Analista de dados e analista de desempenho ⚽.  
+
 Estou em transição de carreira, passei os últimos 7 anos trabalhando como Gerente comercial e também sou empreendedor.
 No final do ano passado nasceu meu primeiro filho; e ao mesmo tempo me apresentou o botão de reset. Desde então venho buscando me qualificar ainda mais para construir uma carreira em dados, esse tempo trabalhando com comércio tive que lidar com dados, planilhas e decisões estratégicas diáriamente. Entendendo que os dados me davam a segurança e os insights importantes para relalizar meu trabalho. Minhas paixões são futebol, tecnologia, games e historia. Durante esse processo de aprendizado tenho me apaixonado por estatísticas, probabilidade e machine learning acredito que todas essas paixões e a minha curiosidade e vontade de aprender tem me ajudado a descubrir como é maravilhoso esse mundo da tecnologia. Sigo daqui buscando me aprimorar e buscando a melhoria continua. Até logo.
 
