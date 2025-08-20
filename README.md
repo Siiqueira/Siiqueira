@@ -1,26 +1,23 @@
-# Olá, Me chamo Ellan Alves, mas pode me chamar de Siiqueira👋🏽
+# Olá, Me chamo Ellan Alves, Feliz de ver você aqui.👋🏽
 ```
 Git init
 ```
 ## 🚀 Sobre mim
 Eu sou Analista de dados e analista de desempenho ⚽.
-Estou em transição de carreira, passei os últimos 7 anos trabalhando como Gerente comercial e também sou Empreendedor.
-No final do ano passado nasceu meu primeiro filho, e meio que o mundo deu um recado e ao mesmo tempo me apresentou o botão de reset. Desde então venho buscando migrar para área que sempre sonhei e que sou apaixonado - Futebol e Tecnologia, foi nos dados que me encontrei, sempre fui muito curioso em buscar padrões, correlações, criar métricas e KPIs e aqui estou buscando conhecimento e entrando cada dia um pouquinho mais nesse mundão da Tecnologia. 
+Estou em transição de carreira, passei os últimos 7 anos trabalhando como Gerente comercial e também sou empreendedor.
+No final do ano passado nasceu meu primeiro filho; e ao mesmo tempo me apresentou o botão de reset. Desde então venho buscando me qualificar ainda mais para construir uma carreira em dados, esse tempo trabalhando com comércio tive que lidar com dados, planilhas e decisões estratégicas diáriamente. Entendendo que os dados me davam a segurança e os insights importantes para relalizar meu trabalho. Minhas paixões são futebol, tecnologia, games e historia. Durante esse processo de aprendizado tenho me apaixonado por estatísticas, probabilidade e machine learning acredito que todas essas paixões e a minha curiosidade e vontade de aprender tem me ajudado a descubrir como é maravilhoso esse mundo da tecnologia. Sigo daqui buscando me aprimorar e buscando a melhoria continua. Até logo.
 
 ## 📈 Objetivos
 
-- Meu objetivo principal é terminar minha formação em Ciências de dados e IA.
+- Conseguir minha primeira vaga como Analista de dados / Ciêntista de dados 
+- Meu objetivo principal é terminar minha formação em Ciências de dados
+- Dominar todos os algoritmos de Machine Learning
+- Trabalhar em grandes projetos
+  
 
 ## 🛠 Habilidades
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,md,python,sqlite,mysql,mongodb,postgres,notion,js,html,css)](https://github.com/siiqueira)
-
-
-
-## 📄Documentação
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-
 
 ## 🔗 Links
 
@@ -30,4 +27,4 @@ No final do ano passado nasceu meu primeiro filho, e meio que o mundo deu um rec
 
 
 ## Portfolio 
-- Em produção...
+- Em produção... [Casca do portfólio](https://github.com/Siiqueira/projeto-site-portfolio)
