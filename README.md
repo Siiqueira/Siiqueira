@@ -29,5 +29,5 @@ No final do ano passado nasceu meu primeiro filho; e ao mesmo tempo me apresento
 
 ## Portfolio 
 - Em produção...
-  - [Casca do portfólio](https://github.com/Siiqueira/projeto-site-portfolio)
+  - [Esboço portfólio](https://github.com/Siiqueira/projeto-site-portfolio)
   - [Site](https://projeto-portfolio-gules.vercel.app)
